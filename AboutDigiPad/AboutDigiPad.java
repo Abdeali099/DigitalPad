@@ -7,6 +7,7 @@ import javax.swing.JDialog;
 import javax.swing.JLabel;
 import javax.swing.JPanel;
 
+// cheking at 12 30
 
 
 public class AboutDigiPad extends JDialog
