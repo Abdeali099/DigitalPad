@@ -43,20 +43,11 @@ import ReplaceAllWord.ReplaceAllWord;
 import EditMenu.*;
 import MainFrame.*;
 
-
-
-
-
-
-//------------------------------------------------------------------------------------------------------------------------ // 
 public class MyNotePadProject extends DigitalPad
-{
-	// ------ //
-		 	
+{ 	
 	MyNotePadProject(String s)
 	{
 		super(s);
-		
 	}
 
 	public static void main(String[] args) 
@@ -71,23 +62,3 @@ public class MyNotePadProject extends DigitalPad
  	} // main close
 
 } // class close
-
-//------------------------------------------------------------------------------------------------------------------------ // 
-
-// -------------------------- If I want To send Copy word At clipbord Than ....//
-
-
-/*
-         String str=t1.getText();
-         
-         Clipboard clip=Toolkit.getDefaultTookit().getSystemClipboard();
-         
-         StringSelection strsel=new StringSelection(str);
-         
-         clip.setContents(strsel,this);
- */
-
-
-
-
-
