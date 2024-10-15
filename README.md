@@ -4,10 +4,11 @@
 
 ## Demo
 
+https://github.com/user-attachments/assets/5dc76a07-858b-4b36-9cdb-9ac25eb73795
 
 ## Features
 
-• Line Number
-• Auto Completion 
-•Theme
-•AutoSave
+- Line Number
+- Auto Completion 
+- Theme
+- AutoSave
